@@ -8,13 +8,12 @@
 <div align="center">
 
 
-  <img src="https://kitzelthemuse.files.wordpress.com/2015/08/mio-typing.gif?w=600&h=500" />
+  <img src="https://thumbs.gfycat.com/ComposedAlertChihuahua-size_restricted.gif" width="550px" />
 </div>
 
 <br>
 <p align="center">
-   <strong>Olá, sou a Flaviane, estudante de Análise e Desenvolvimento de Sistemas.</strong>.<br />
-   <strong>E sou apaixonada por tecnologia. 💓</strong>.
+   <strong>Olá, me chamo Flaviane, sou estudante de Análise e Desenvolvimento de sistemas, estou no 3° semestre.<br/> Meu objetivo é ingressar na área de Desenvolvimento Web.</strong>.<br />
 </p>
 
 <p align="center">
