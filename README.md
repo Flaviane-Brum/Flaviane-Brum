@@ -1,6 +1,11 @@
 ## Olá, me chamo Flaviane Brum
-
-<div align="center">
+<div align="left">
+  :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas<br>
+  :dart: Em busca de uma oportunidade na área de Front-end<br>
+  :books: Estudando HTML, CSS, Javascript, Sass, React
+  </div>
+  <hr>
+<div align="center" width="100%">
   <a href="https://github.com/Flaviane-Brum">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=dracula" />
@@ -21,7 +26,7 @@
 
   <a href = "mailto:flavianebs3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/flaviane-brum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
-    <a href="https://portfolio-flaviane-brum.vercel.app/" target="_blank"><img src="https://vercelbadge.vercel.app/api/Flaviane-Brum/Portfolio-pessoal?style=for-the-badge" target="_blank"  ></a> 
+    <a href="https://portfolio-flaviane-brum.vercel.app/" target="_blank"><img src="https://vercelbadge.vercel.app/api/Flaviane-Brum/Portfolio-pessoal?style=for-the-badge" target="_blank"></a> 
   ![Snake animation](https://github.com/Flaviane-Brum/Flaviane-Brum/blob/output/github-contribution-grid-snake.svg)
  
 </div>
