@@ -5,10 +5,10 @@
   :books: Estudando HTML, CSS, Javascript, Sass, React
   </div>
   <hr>
-<div align="center" >
+<div align="center">
   <a href="https://github.com/Flaviane-Brum">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=omni" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=omni&include_all_commits=true&count_private=true" align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=omni" align="center"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Flavi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
