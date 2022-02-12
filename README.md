@@ -1,10 +1,8 @@
-## Olá, me chamo Flaviane Brum
+<h2>Olá, me chamo Flaviane Brum<img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> </h2>
 
-<div align="left">
-  :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas<br>
-  :dart: Em busca de uma oportunidade na área de Front-end<br>
-  :books: Estudando HTML, CSS, Javascript, Sass, React
-  </div>
+ - :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas<br>
+ - :dart: Em busca de uma oportunidade na área de Front-end<br>
+ - :books: Estudando HTML, CSS, Javascript, Sass, React
   
 <hr>  
   
