@@ -4,7 +4,7 @@
 -:briefcase: Em busca de uma oportunidade na área de Front-end </br>
 -:green_book: Estudando HTML5, CSS, JavaScript, Sass e React </br>
 <hr>
-<div align="center">
+<div align="left">
   <a href="https://github.com/Flaviane-Brum">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=dracula" />
