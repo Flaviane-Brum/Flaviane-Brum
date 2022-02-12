@@ -5,17 +5,17 @@
   :books: Estudando HTML, CSS, Javascript, Sass, React
   </div>
   <hr>
-<div align="center" width="100%">
+<div align="center" >
   <a href="https://github.com/Flaviane-Brum">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Flavi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Flavi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Flavi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Flavi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Flavi-pic" height="150" style="border-radius:60px" src="https://user-images.githubusercontent.com/77207253/153726452-e4c4a4c1-2744-4275-ad88-e3d1663e3360.gif?width=676&height=676">
+  <img align="right" alt="Flavi-pic" height="150" style="border-radius:60px;" src="https://user-images.githubusercontent.com/77207253/153729185-842ce334-0e39-4ad1-a4e9-475fad1d2c98.gif?width=676&height=676">
 </div>
   
   ##
