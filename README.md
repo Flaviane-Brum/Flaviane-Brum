@@ -1,14 +1,14 @@
 ## Olá, me chamo Flaviane Brum
-
+<div align="left">
 -:mortar_board: Estudante de Análise e Desenvolvimento de sistemas</br>
 -:briefcase: Em busca de uma oportunidade na área de Front-end </br>
 -:green_book: Estudando HTML5, CSS, JavaScript, Sass e React </br>
+</div>
 <hr>
-<div align="left">
+<div align="center">
   <a href="https://github.com/Flaviane-Brum">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="50%"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=dracula" width="50%"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Flavi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
