@@ -7,7 +7,7 @@
   <hr>
 <div align="center">
   <a href="https://github.com/Flaviane-Brum">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=omni&include_all_commits=true&count_private=true&title_color=e9c0cf&layout=compact&langs_count=7 " align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=omni&include_all_commits=true&count_private=true&title_color=e9c0cf&layout=default " align="center"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=omni&title_color=e9c0cf" align="center"/>
 </div>
 <div style="display: inline_block"><br>
