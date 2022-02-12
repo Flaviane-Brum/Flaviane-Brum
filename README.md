@@ -1,54 +1,32 @@
+## Olá, me chamo Flaviane Brum
 
-<span align="center">
-
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
-
-</span>
-
+-:mortar_board: Estudante de Análise e Desenvolvimento de sistemas</br>
+-:briefcase: Em busca de uma oportunidade na área de Front-end </br>
+-:green_book: Estudando HTML5, CSS, JavaScript, Sass e React </br>
+<hr>
 <div align="center">
+  <a href="https://github.com/Flaviane-Brum">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Flavi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Flavi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Flavi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Flavi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" alt="Flavi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/77207253/153726452-e4c4a4c1-2744-4275-ad88-e3d1663e3360.gif?width=676&height=676">
+</div>
+  
+  ##
+ 
+<div> 
 
 
-  <img src="https://thumbs.gfycat.com/ComposedAlertChihuahua-size_restricted.gif" width="550px" />
+
+  <a href = "mailto:flavianebs3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/flaviane-brum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
+    <a href="https://portfolio-flaviane-brum.vercel.app/" target="_blank"><img src="https://vercelbadge.vercel.app/api/Flaviane-Brum/Portfolio-pessoal?style=for-the-badge" target="_blank"  ></a> 
+  ![Snake animation](https://github.com/Flaviane-Brum/Flaviane-Brum/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
-<br>
-<p align="center">
-   <strong>Olá, me chamo Flaviane, sou estudante de Análise e Desenvolvimento de sistemas, estou no 3° semestre.<br/> Meu objetivo é ingressar na área de Desenvolvimento Web.</strong>.<br />
-</p>
-
-<p align="center">
- • 💼  Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
-</p>  
-
-<p align="center">
- • 🚀  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
-</p> 
-
-<p align="center">
- • 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
-</p> 
-
-
-
-
- 
- ## 💻 Technologies & Tools
-
-<p align="center">
-  
- 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-
-</p>
-
-## ⭐ GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Flaviane-brum&show_icons=true&theme=ayu-mirage&line_height=27">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviane-Brum&langs_count=5&theme=ayu-mirage">
-</p>
