@@ -1,10 +1,5 @@
 ## Olá, me chamo Flaviane Brum
-<div align="left">
--:mortar_board: Estudante de Análise e Desenvolvimento de sistemas</br>
--:briefcase: Em busca de uma oportunidade na área de Front-end </br>
--:green_book: Estudando HTML5, CSS, JavaScript, Sass e React </br>
-</div>
-<br>
+
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Flaviane-Brum">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Flaviane-Brum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
