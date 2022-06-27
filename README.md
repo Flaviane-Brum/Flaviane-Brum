@@ -1,4 +1,4 @@
-<h2>Olá, me chamo Flaviane Brum<img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> </h2>
+<h2>Olá, me chamo Flaviane Brum<img src="(https://user-images.githubusercontent.com/77207253/176028415-20768fe9-6f73-4c3a-87cc-0d5678bd80df.gif" width="40px"> </h2>
 
  - :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas<br>
  - :dart: Em busca de uma oportunidade na área de Front-end<br>
