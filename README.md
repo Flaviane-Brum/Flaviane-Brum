@@ -1,4 +1,6 @@
-<h2>Olá, me chamo Flaviane Brum ![flavi](https://user-images.githubusercontent.com/77207253/176028415-20768fe9-6f73-4c3a-87cc-0d5678bd80df.gif) </h2>
+![flavi](https://user-images.githubusercontent.com/77207253/176028415-20768fe9-6f73-4c3a-87cc-0d5678bd80df.gif 
+
+<h2>Olá, me chamo Flaviane Brum </h2>
 
  - :mortar_board: Estudante de Análise e Desenvolvimento de Sistemas<br>
  - :dart: Em busca de uma oportunidade na área de Front-end<br>
