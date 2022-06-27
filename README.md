@@ -1,4 +1,4 @@
-![flavi](https://user-images.githubusercontent.com/77207253/176028415-20768fe9-6f73-4c3a-87cc-0d5678bd80df.gif 
+<img src="https://user-images.githubusercontent.com/77207253/176028415-20768fe9-6f73-4c3a-87cc-0d5678bd80df.gif" />
 
 <h2>Olá, me chamo Flaviane Brum </h2>
 
